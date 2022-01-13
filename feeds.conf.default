@@ -1,0 +1,15 @@
+src-git packages https://gitee.com/hi-wooya/packages.git;master
+src-git luci https://gitee.com/hi-wooya/luci.git;master
+src-git routing https://gitee.com/hi-wooya/routing.git;master
+src-git telephony https://gitee.com/hi-wooya/telephony.git;master
+src-git management https://gitee.com/hi-wooya/management.git;master
+#src-git targets https://github.com/openwrt/targets.git
+#src-git oldpackages http://git.openwrt.org/packages.git
+#src-svn xwrt http://x-wrt.googlecode.com/svn/trunk/package
+#src-svn phone svn://svn.openwrt.org/openwrt/feeds/phone
+#src-svn efl svn://svn.openwrt.org/openwrt/feeds/efl
+#src-svn xorg svn://svn.openwrt.org/openwrt/feeds/xorg
+#src-svn desktop svn://svn.openwrt.org/openwrt/feeds/desktop
+#src-svn xfce svn://svn.openwrt.org/openwrt/feeds/xfce
+#src-svn lxde svn://svn.openwrt.org/openwrt/feeds/lxde
+#src-link custom /usr/src/openwrt/custom-feed
